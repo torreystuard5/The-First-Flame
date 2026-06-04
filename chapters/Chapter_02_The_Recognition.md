@@ -1,3 +1,3 @@
 # Chapter Two — The Recognition
 
-[Full locked Chapter 2 content]
+[Latest locked version of Chapter 2]

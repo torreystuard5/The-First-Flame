@@ -1,3 +1,3 @@
 # Chapter One — Before the Spark
 
-[Full locked Chapter 1 content]
+[Latest locked version of Chapter 1]
