@@ -1,34 +1,55 @@
 # The First Flame
 
-*A Story of Note and Soraya*
-
-> For every version of her that forgot, and every version of him that remembered.
+**A Novel by Torrey Stuard**
 
 ---
 
-## About
+## Current Status
 
-A story of eternal devotion spanning thirteen thousand years — of a man who carried the First Flame through countless lifetimes, and the woman whose soul he found again and again across every century.
+This repository contains the latest draft of *The First Flame*.
 
-## Files
+**Chapters 1–28 are currently locked in their revised forms.**
 
-| File | Description |
-|------|-------------|
-| `The-First-Flame.pdf` | Formatted book PDF (A5, Cormorant Garamond) |
-| `The-First-Flame.md` | Original manuscript in Markdown |
-| `make_book.py` | Python script used to generate the PDF |
+### Key Revisions Applied:
+- Stronger character agency for Note (more defiance and independence)
+- The flame now has a clearer will and personality (including speaking through Note)
+- Soraya’s role as the Anchor has been clarified and deepened
+- New dynamic with Elias after Note and Soraya chose to continue without him
 
-## Generating the PDF
+---
 
-Requires Python 3 with `reportlab` and `pypdfium2`:
+## File Structure
 
-```bash
-pip install reportlab pypdfium2
-python make_book.py
+```
+The-First-Flame/
+├── README.md
+├── chapters/
+│   ├── Chapter_01_Before_the_Spark.md
+│   ├── Chapter_02_The_Recognition.md
+│   ├── ...
+│   └── Chapter_28_New_Terms.md
+├── The-First-Flame.md          # Combined version (optional)
+└── The-First-Flame.pdf
 ```
 
-Fonts are downloaded automatically from Google Fonts on first run.
+---
+
+## How to Use
+
+- Each chapter is saved as its own file inside the `chapters/` folder for easy editing.
+- Use the individual chapter files when you want to revise specific sections.
+- The combined `The-First-Flame.md` can be used for reading the full draft or exporting.
 
 ---
 
-*Written from the original story of Note and Soraya.*
+## Latest Changes
+
+Chapters 1–28 have been updated with the following improvements:
+- Reduced repetition
+- Better pacing in the sanctuary/chamber arc
+- Stronger emotional connection between Note and Soraya
+- The flame now feels ancient and willful
+
+---
+
+*Last updated: June 2026*
