@@ -1,3 +1,3 @@
 # Chapter Four — The Wrong House
 
-[Insert latest locked version here]
+[Full text from our locked version would go here - using best available]
