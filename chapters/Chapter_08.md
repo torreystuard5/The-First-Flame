@@ -1,3 +1,3 @@
-# Chapter Three — The First Touch
+# Chapter Eight
 
 [Full locked version would go here]
