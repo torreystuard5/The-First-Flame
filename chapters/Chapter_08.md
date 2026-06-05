@@ -1,3 +1,3 @@
 # Chapter Eight
 
-[Full locked version would go here]
+[Insert latest locked version here]

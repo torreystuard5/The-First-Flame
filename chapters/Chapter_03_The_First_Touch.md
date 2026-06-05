@@ -1,3 +1,3 @@
 # Chapter Three — The First Touch
 
-[Full locked version would go here]
+[Insert latest locked version here]
